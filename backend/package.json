@@ -1,0 +1,33 @@
+{
+  "name": "seungheekocsis3380-as2",
+  "version": "1.0.0",
+  "description": "MERN App",
+  "main": "server.js",
+  "scripts": {
+    "test": "hello world! welcome to Express!",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "node",
+    "momgodb",
+    "mern",
+    "full-stack"
+  ],
+  "author": "Seunghee Ko",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13",
+    "mongoose-query-parser": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
